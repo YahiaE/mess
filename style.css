@@ -1,0 +1,41 @@
+.rows {
+	/*border:2px solid red;*/
+}
+
+.columns {
+	margin:0px;
+	padding:0px;
+	/*border:2px solid blue;*/
+}
+
+.grid {
+	white-space: nowrap;
+	display:flex;
+}
+
+.column {
+	display:inline-block;
+} 
+
+.boxRow {
+	margin:5px;
+    border: 2px solid black;
+    width:50px;
+    height:50px;
+}
+
+.boxColumn {
+	margin:5px;
+    border: 2px solid black;
+    width:50px;
+    height:50px;
+}
+
+
+
+
+
+
+
+
+
